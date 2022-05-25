@@ -1,0 +1,23 @@
+//==============================================
+// Name           : AKSHAY MUKESHBHAI KATRODIYA
+// Email          : amkatrodiya@myseneca.ca
+// Student ID     : 125298208
+// Section        : NAA
+// Date           : 05/30/2021(Sunday)
+//==============================================
+
+    Theworkshop was very difficult to follow and I was unable to login to the matrix due to a problem with the seneca student VPN. I need more time espescially since
+    I don't understand programming c++ The 1st part in it self is not difficult but part 2 was difficult as 
+    the compiler wouldn't compile due to an error in finding directory. I used string functions like strCpy, strnCpy in order to copy strings and use it to invoke into functions for checking
+    which are i am using by string library before this workshop.
+    I made several functions for strings and learn how they works by this workshop. In my first semester C course (btp100) i was using string library for strings.
+    From this workshop I made that function on my own and I didn't use any string library provided by C++. 
+
+    For 1st part of workshop I separated the main file containing all the code and the functions into
+    modules and linked them together to make application readable and easily accessible. 
+    I used header module into the main cpp module and safeguarded header modules. 
+    safeguards protect from multiple inclusions. I also played with th e code to see how different segments of code use the functions i enlisted in the header file 
+
+    In second part of workshop I learned about structure of string function and implementation of them. Second part was very interesting and I had some little issue in
+    strStr function. I was getting warning during run time as nullptr is not defined, then i include iostream header file and it worked. Everything else is easy to 
+    implement and i had not face any issues as i am familiar with string functions from btp100 course. 
