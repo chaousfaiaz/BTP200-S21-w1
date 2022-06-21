@@ -1,7 +1,7 @@
 //==============================================
-// Name           : AKSHAY MUKESHBHAI KATRODIYA
-// Email          : amkatrodiya@myseneca.ca
-// Student ID     : 125298208
+// Name           : MD Faiaz
+// Email          : mfaiaz@myseneca.ca
+// Student ID     : 164899213
 // Section        : NAA
 // Date           : 05/26/2021(Wednesday)
 //==============================================
